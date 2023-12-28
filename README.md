@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Acessibilidade Python</title>
-</head>
-<body>
     <h1>Acessibilidade Python</h1>
     <p>Este projeto é uma iniciativa para criar soluções de acessibilidade utilizando Python. O foco principal é desenvolver ferramentas que possam auxiliar pessoas com diferentes necessidades de acessibilidade no uso de tecnologia.</p>
 
@@ -36,5 +30,4 @@
 
     <h2>Contato</h2>
     <p>Para mais informações, entre em contato através do GitHub.</p>
-</body>
-</html>
+
